@@ -1,0 +1,7 @@
+name: Golem Manager
+main: com.gmail.mpaul0416.GolemManager.GolemManager
+version: 0.1.0
+
+commands:
+  list:
+    description: List all golems owned by players
